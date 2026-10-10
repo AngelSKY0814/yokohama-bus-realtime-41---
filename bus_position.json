@@ -1,0 +1,15 @@
+{
+  "updated": "2026-10-10 20:04:07",
+  "count": 1,
+  "buses": [
+    {
+      "id": "1810",
+      "latitude": 35.4729075,
+      "longitude": 139.617389,
+      "route": "34系統",
+      "destination": "横浜駅西口行",
+      "courseId": "0001601257",
+      "direction": "yokohama"
+    }
+  ]
+}
