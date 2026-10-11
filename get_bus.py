@@ -6,18 +6,101 @@ from concurrent.futures import ThreadPoolExecutor
 
 courses = [
 {
-    "courseId": "0001601257",
-    "route": "34系統",
-    "destination": "横浜駅西口行",
-    "direction": "yokohama"
+    "courseId": "0001601364",
+    "route": "41系統",
+    "destination": "下町会館経由 新横浜駅前行",
+    "direction": "shinyokohama"
 },
 {
-    "courseId": "0001601258",
-    "route": "34系統",
-    "destination": "市民病院経由 横浜駅西口行",
-    "direction": "yokohama"
+    "courseId": "0001600147",
+    "route": "41系統",
+    "destination": "太尾西住宅経由 新横浜駅前行",
+    "direction": "shinyokohama"
 },
-    
+{
+    "courseId": "0001600877",
+    "route": "41系統",
+    "destination": "太尾西住宅経由 港北車庫前行",
+    "direction": "shinyokohama"
+},
+{
+    "courseId": "0001600822",
+    "route": "41系統",
+    "destination": "太尾西住宅経由 鶴見駅西口行",
+    "direction": "shinyokohama"
+},
+{
+    "courseId": "0001600828",
+    "route": "41系統",
+    "destination": "太尾西住宅経由 鶴見駅西口行",
+    "direction": "turumi"
+},
+{
+    "courseId": "0001600809",
+    "route": "41系統",
+    "destination": "菊名駅前経由 鶴見駅西口行",
+    "direction": "turumi"
+},
+{
+    "courseId": "0001600839",
+    "route": "41系統",
+    "destination": "菊名駅前経由 鶴見駅西口行",
+    "direction": "turumi"
+},
+{
+    "courseId": "0001601360",
+    "route": "41系統",
+    "destination": "菊名駅前経由 新横浜駅前行",
+    "direction": "up"
+},
+{
+    "courseId": "0001601362",
+    "route": "41系統",
+    "destination": "菊名駅前経由 新横浜駅前行",
+    "direction": "up"
+},
+{
+    "courseId": "0001601361",
+    "route": "41系統",
+    "destination": "菊名駅前経由 港北車庫前行",
+    "direction": "up"
+},
+{
+    "courseId": "0001600345",
+    "route": "41系統",
+    "destination": "太尾住宅経由 川向折返場行",
+    "direction": "up"
+},
+{
+    "courseId": "0001600343",
+    "route": "41系統",
+    "destination": "太尾住宅経由 川向折返場行",
+    "direction": "up"
+},
+{
+    "courseId": "0001601363",
+    "route": "41系統",
+    "destination": "下町会館前経由 中山駅北口行",
+    "direction": "up"
+},
+{
+    "courseId": "0001601365",
+    "route": "41系統",
+    "destination": "下町会館前経由 中山駅北口行",
+    "direction": "up"
+},
+{
+    "courseId": "0001601272",
+    "route": "28系統",
+    "destination": "ららぽーと横浜経由 新羽駅行",
+    "direction": "nippa"
+},
+{
+    "courseId": "0001601271",
+    "route": "28系統",
+    "destination": "ららぽーと横浜経由 中山駅北口行",
+    "direction": "nippa"
+},
 ]
 
 headers = {
