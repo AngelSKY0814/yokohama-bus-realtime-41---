@@ -72,7 +72,7 @@ courses = [
     "direction": "up"
 },
 {
-    "courseId": "0001600343",
+    "courseId": "0001601359",
     "route": "41系統",
     "destination": "太尾住宅経由 川向折返場行",
     "direction": "up"
