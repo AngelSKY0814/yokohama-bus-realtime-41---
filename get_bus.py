@@ -99,7 +99,7 @@ courses = [
     "courseId": "0001601271",
     "route": "28系統",
     "destination": "ららぽーと横浜経由 中山駅北口行",
-    "direction": "nippa"
+    "direction": "up"
 },
 ]
 
